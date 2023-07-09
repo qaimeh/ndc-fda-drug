@@ -1,14 +1,13 @@
 # ndc-fda-drug
-# ndc-fda-drug
 This application is built in Jupyter Notebook, the file `novo_nordisk_qaiser.ipynb` generates different CSV files as output for the following requirements:
 
-    1. How many unique persons have been prescribed a medication containing the active ingredient “insulin”?
+    1) How many unique persons have been prescribed a medication containing the active ingredient “insulin”?
 
-    1. How many of the NDC packages can't be found in FDA database?
+    2) How many of the NDC packages can't be found in FDA database?
 
-    1. From the NDC packages found in the FDA database, which ten active ingredients are prescribed to most persons and how many persons have been prescribed each of them?
+    3) From the NDC packages found in the FDA database, which ten active ingredients are prescribed to most persons and how many persons have been prescribed each of them?
 
-    1. Which ten drugs that are not found in FDA's database are prescribed to highest number of persons, and how many persons have been prescribed each of them?
+    4) Which ten drugs that are not found in FDA's database are prescribed to highest number of persons, and how many persons have been prescribed each of them?
 
 
 # Data

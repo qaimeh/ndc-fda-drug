@@ -11,7 +11,7 @@ This application is built in Jupyter Notebook, the file `novo_nordisk_qaiser.ipy
 
 
 # Data
-   - CSV file `DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_10.csv` can be downloaded from [CMC](https://www.cms.gov/research-statistics-data-and-systems/downloadable-public-use-files/synpufs/desample10)
+   - CSV file `DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_10.csv` can be downloaded from [CMS](https://www.cms.gov/research-statistics-data-and-systems/downloadable-public-use-files/synpufs/desample10)
 
    - JSON data `drug-ndc-0001-of-0001.json` can be downloaded from [FDA](https://open.fda.gov/apis/drug/ndc/download/) site. 
 
